@@ -1,0 +1,308 @@
+{
+    "Malaria": {
+        "category": "Infectious Disease",
+        "symptoms": [
+            "Fever",
+            "Chills",
+            "Headache",
+            "Sweating",
+            "Muscle Pain"
+        ],
+        "cause": "Plasmodium Parasite",
+        "risk_factors": [
+            "Mosquito Exposure",
+            "Travel to Malaria-Prone Areas"
+        ],
+        "body_system": "Blood and Immune System",
+        "transmission": "Bite of an infected mosquito",
+        "diagnostic_tests": [
+            "Blood Smear Test",
+            "Rapid Diagnostic Test"
+        ],
+        "treatment": [
+            "Antimalarial Medication",
+            "Supportive Care"
+        ],
+        "prevention": [
+            "Use Mosquito Nets",
+            "Use Insect Repellent"
+        ]
+    },
+
+    "Dengue": {
+        "category": "Infectious Disease",
+        "symptoms": [
+            "High Fever",
+            "Severe Headache",
+            "Joint Pain",
+            "Muscle Pain",
+            "Skin Rash"
+        ],
+        "cause": "Dengue Virus",
+        "risk_factors": [
+            "Mosquito Exposure",
+            "Living in Dengue-Prone Areas"
+        ],
+        "body_system": "Blood and Immune System",
+        "transmission": "Bite of an infected Aedes mosquito",
+        "diagnostic_tests": [
+            "NS1 Antigen Test",
+            "Blood Test"
+        ],
+        "treatment": [
+            "Supportive Care",
+            "Fluid Management"
+        ],
+        "prevention": [
+            "Remove Standing Water",
+            "Use Mosquito Repellent"
+        ]
+    },
+
+    "Tuberculosis": {
+        "category": "Infectious Disease",
+        "symptoms": [
+            "Persistent Cough",
+            "Chest Pain",
+            "Fever",
+            "Night Sweats",
+            "Weight Loss"
+        ],
+        "cause": "Mycobacterium tuberculosis",
+        "risk_factors": [
+            "Close Contact with Infected Person",
+            "Weak Immune System"
+        ],
+        "body_system": "Respiratory System",
+        "transmission": "Airborne transmission",
+        "diagnostic_tests": [
+            "Chest X-Ray",
+            "Sputum Test"
+        ],
+        "treatment": [
+            "Anti-Tuberculosis Medication",
+            "Medical Monitoring"
+        ],
+        "prevention": [
+            "Early Detection",
+            "Good Respiratory Hygiene"
+        ]
+    },
+
+    "Influenza": {
+        "category": "Respiratory Infection",
+        "symptoms": [
+            "Fever",
+            "Headache",
+            "Cough",
+            "Fatigue",
+            "Body Ache"
+        ],
+        "cause": "Influenza Virus",
+        "risk_factors": [
+            "Close Contact with Infected Person",
+            "Low Immunity"
+        ],
+        "body_system": "Respiratory System",
+        "transmission": "Respiratory droplets",
+        "diagnostic_tests": [
+            "Influenza Diagnostic Test"
+        ],
+        "treatment": [
+            "Rest",
+            "Symptomatic Treatment"
+        ],
+        "prevention": [
+            "Vaccination",
+            "Hand Hygiene"
+        ]
+    },
+
+    "Asthma": {
+        "category": "Respiratory Disease",
+        "symptoms": [
+            "Wheezing",
+            "Cough",
+            "Shortness of Breath",
+            "Chest Tightness"
+        ],
+        "cause": "Airway Inflammation",
+        "risk_factors": [
+            "Air Pollution",
+            "Allergens",
+            "Family History"
+        ],
+        "body_system": "Respiratory System",
+        "transmission": "Non-communicable",
+        "diagnostic_tests": [
+            "Spirometry Test",
+            "Peak Flow Test"
+        ],
+        "treatment": [
+            "Inhalers",
+            "Asthma Management"
+        ],
+        "prevention": [
+            "Avoid Known Triggers",
+            "Reduce Air Pollution Exposure"
+        ]
+    },
+
+    "Diabetes": {
+        "category": "Metabolic Disease",
+        "symptoms": [
+            "Excessive Thirst",
+            "Frequent Urination",
+            "Fatigue",
+            "Blurred Vision",
+            "Slow Wound Healing"
+        ],
+        "cause": "Insulin Resistance or Insufficient Insulin",
+        "risk_factors": [
+            "Obesity",
+            "Family History",
+            "Physical Inactivity"
+        ],
+        "body_system": "Endocrine System",
+        "transmission": "Non-communicable",
+        "diagnostic_tests": [
+            "Blood Glucose Test",
+            "HbA1c Test"
+        ],
+        "treatment": [
+            "Medication",
+            "Lifestyle Management"
+        ],
+        "prevention": [
+            "Regular Physical Activity",
+            "Balanced Diet",
+            "Healthy Weight Management"
+        ]
+    },
+
+    "Hypertension": {
+        "category": "Cardiovascular Disease",
+        "symptoms": [
+            "Headache",
+            "Dizziness",
+            "Blurred Vision",
+            "Fatigue"
+        ],
+        "cause": "Persistently Elevated Blood Pressure",
+        "risk_factors": [
+            "High Salt Intake",
+            "Obesity",
+            "Stress",
+            "Physical Inactivity"
+        ],
+        "body_system": "Cardiovascular System",
+        "transmission": "Non-communicable",
+        "diagnostic_tests": [
+            "Blood Pressure Measurement",
+            "Cardiovascular Assessment"
+        ],
+        "treatment": [
+            "Lifestyle Changes",
+            "Blood Pressure Medication"
+        ],
+        "prevention": [
+            "Reduce Salt Intake",
+            "Regular Exercise",
+            "Stress Management"
+        ]
+    },
+
+    "Pneumonia": {
+        "category": "Respiratory Disease",
+        "symptoms": [
+            "Cough",
+            "Fever",
+            "Chest Pain",
+            "Shortness of Breath",
+            "Fatigue"
+        ],
+        "cause": "Bacterial or Viral Infection",
+        "risk_factors": [
+            "Weak Immune System",
+            "Smoking",
+            "Older Age"
+        ],
+        "body_system": "Respiratory System",
+        "transmission": "Respiratory droplets in some cases",
+        "diagnostic_tests": [
+            "Chest X-Ray",
+            "Blood Test"
+        ],
+        "treatment": [
+            "Antibiotics when bacterial",
+            "Supportive Care"
+        ],
+        "prevention": [
+            "Vaccination",
+            "Good Hand Hygiene"
+        ]
+    },
+
+    "Gastroenteritis": {
+        "category": "Gastrointestinal Disease",
+        "symptoms": [
+            "Abdominal Pain",
+            "Diarrhea",
+            "Vomiting",
+            "Fever",
+            "Nausea"
+        ],
+        "cause": "Viral or Bacterial Infection",
+        "risk_factors": [
+            "Contaminated Food",
+            "Contaminated Water",
+            "Poor Hygiene"
+        ],
+        "body_system": "Digestive System",
+        "transmission": "Contaminated Food or Water",
+        "diagnostic_tests": [
+            "Stool Test",
+            "Blood Test"
+        ],
+        "treatment": [
+            "Fluid Replacement",
+            "Supportive Care"
+        ],
+        "prevention": [
+            "Safe Drinking Water",
+            "Proper Food Hygiene"
+        ]
+    },
+
+    "Migraine": {
+        "category": "Neurological Disorder",
+        "symptoms": [
+            "Severe Headache",
+            "Nausea",
+            "Sensitivity to Light",
+            "Sensitivity to Sound",
+            "Visual Disturbances"
+        ],
+        "cause": "Neurological Factors",
+        "risk_factors": [
+            "Stress",
+            "Sleep Disturbance",
+            "Certain Foods"
+        ],
+        "body_system": "Nervous System",
+        "transmission": "Non-communicable",
+        "diagnostic_tests": [
+            "Clinical Evaluation",
+            "Neurological Examination"
+        ],
+        "treatment": [
+            "Migraine Medication",
+            "Lifestyle Management"
+        ],
+        "prevention": [
+            "Adequate Sleep",
+            "Stress Management",
+            "Avoid Known Triggers"
+        ]
+    }
+}
