@@ -1,0 +1,42 @@
+HEALTHCARE KNOWLEDGE RULES
+
+Rule 1:
+IF patient has Fever AND Chills AND Headache
+THEN Malaria may be considered.
+
+Rule 2:
+IF patient has High Fever AND Joint Pain AND Skin Rash
+THEN Dengue may be considered.
+
+Rule 3:
+IF patient has Persistent Cough AND Night Sweats AND Weight Loss
+THEN Tuberculosis may be considered.
+
+Rule 4:
+IF patient has Fever AND Cough AND Fatigue
+THEN Influenza may be considered.
+
+Rule 5:
+IF patient has Wheezing AND Shortness of Breath
+THEN Asthma may be considered.
+
+Rule 6:
+IF patient has Excessive Thirst AND Frequent Urination
+THEN Diabetes may be considered.
+
+Rule 7:
+IF patient has Headache AND Dizziness AND Blurred Vision
+THEN Hypertension may be considered.
+
+Rule 8:
+IF patient has Cough AND Fever AND Chest Pain
+THEN Pneumonia may be considered.
+
+Rule 9:
+IF patient has Diarrhea AND Vomiting AND Abdominal Pain
+THEN Gastroenteritis may be considered.
+
+Rule 10:
+IF patient has Severe Headache AND Nausea
+AND Sensitivity to Light
+THEN Migraine may be considered.
